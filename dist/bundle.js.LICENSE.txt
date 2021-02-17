@@ -1,0 +1,13 @@
+/*!
+ * Splide.js
+ * Version  : 2.4.20
+ * License  : MIT
+ * Copyright: 2020 Naotoshi Fujita
+ */
+
+/*!
+ * baguetteBox.js
+ * @author  feimosi
+ * @version 1.11.1
+ * @url https://github.com/feimosi/baguetteBox.js
+ */

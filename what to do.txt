@@ -1,0 +1,23 @@
+Foto studio blic Wordpress.
+
+Stranice:
+
+1. Studio - ukratko o nama, kontakt, adresa, mreže
+2. Galerija - Parent / Child sa baguetteBox js. -ok
+
+
+1. Usluge - custom post type
+
+    slika uz post, naslov, excerpt, editor, front-image
+    povući 2 usluge na front page + link na sve usluge
+
+2. Objave - post type, blog
+    ovdje mu dajem mogućnost da objavljuje neke promjene tipa privremeno radno vrijeme
+    ili da objavi neke slike za novi proizvod i sl.
+
+3. Front page
+
+    Header + usluge + blog + footer
+
+x. Cijenik
+
